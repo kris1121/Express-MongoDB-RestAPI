@@ -1,0 +1,23 @@
+{
+  "name": "express-mongodb-restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kris1121/Express-MongoDB-RestAPI.git"
+  },
+  "author": "Krzysztof Matyga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kris1121/Express-MongoDB-RestAPI/issues"
+  },
+  "homepage": "https://github.com/kris1121/Express-MongoDB-RestAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
